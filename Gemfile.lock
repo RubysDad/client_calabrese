@@ -92,6 +92,7 @@ GEM
     nio4r (2.1.0)
     nokogiri (1.7.2)
       mini_portile2 (~> 2.1.0)
+    parallax-rails (1.0.0)
     pg (0.20.0)
     puma (3.9.0)
     rack (2.0.3)
@@ -183,6 +184,7 @@ DEPENDENCIES
   jbuilder (~> 2.5)
   jquery-rails
   listen (~> 3.0.5)
+  parallax-rails (~> 1.0)
   pg (~> 0.18)
   puma (~> 3.0)
   rails (~> 5.0.1)
