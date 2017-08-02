@@ -31,6 +31,7 @@ gem 'frontend-generators', '~> 0.2.0'
 gem 'twitter-bootstrap-rails', '~> 4.0'
 gem 'therubyracer', '~> 0.12.3'
 gem 'parallax-rails', '~> 1.0'
+gem 'devise', '~> 4.3'
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
