@@ -51,13 +51,13 @@ p {
     line-height: 1.5;
 }
 
-.bg-primary {
-    background-color: #f05f40;
+.bg-banner {
+    background-color: #262F36;
 }
 
-.bg-dark {
-    color: #fff;
-    background-color: #222;
+.bg-light {
+    color: #000000;
+    background-color: #F4F5F6;
 }
 
 .text-faded {
@@ -241,7 +241,9 @@ header .header-content .header-content-inner p {
 
 .section-heading {
     margin-top: 0;
+    color: #FFF;
 }
+
 
 .service-box {
     margin: 50px auto 0;
@@ -473,4 +475,12 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
+}
+
+.subscription-heading {
+    color: #BEC8CE;
+}
+
+.product-label {
+    color: #BEC8CE;
 }

@@ -30,8 +30,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'frontend-generators', '~> 0.2.0'
 gem 'twitter-bootstrap-rails', '~> 4.0'
 gem 'therubyracer', '~> 0.12.3'
-gem 'parallax-rails', '~> 1.0'
 gem 'devise', '~> 4.3'
+gem 'stripe', '~> 3.2'
+gem 'dotenv-rails', :groups => [:development, :test]
 
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
@@ -57,3 +58,5 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+ruby "2.4.0"
