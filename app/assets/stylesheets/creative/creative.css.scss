@@ -55,9 +55,9 @@ p {
     background-color: #f05f40;
 }
 
-.bg-dark {
-    color: #fff;
-    background-color: #222;
+.bg-light {
+    color: #000000;
+    background-color: #F4F5F6;
 }
 
 .text-faded {
@@ -473,4 +473,12 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
+}
+
+.subscription-heading {
+    color: #BEC8CE;
+}
+
+.product-label {
+    color: #BEC8CE;
 }
